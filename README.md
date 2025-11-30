@@ -1,5 +1,4 @@
 # Hii!
 
 
-Mein Alter:  
-<!-- AGE -->
+Ich bin Noa F und ich bin AGE_PLACEHOLDER
