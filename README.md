@@ -7,7 +7,7 @@ i'm Noa F., student from Germany. Down there you can see my skills and experienc
 
 
 Check out some of my friends!
-<img src="https://avatars.githubusercontent.com/u/66220444?v=4" width="300">
+<img src="https://avatars.githubusercontent.com/u/66220444?v=4" width="50">
 
 
 
