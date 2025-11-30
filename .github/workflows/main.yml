@@ -1,25 +1,26 @@
-name: Update Age
+name: Update README Age
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Läuft jeden Montag um Mitternacht
+    - cron: '0 0 * * 1'  # läuft jeden Montag
   workflow_dispatch:
 
 jobs:
-  update-age:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update AGE.md
+      - name: Update age in README
         run: |
-          BIRTH_YEAR=2010
+          BIRTH_YEAR=1998
           CURRENT_YEAR=$(date +'%Y')
           AGE=$((CURRENT_YEAR - BIRTH_YEAR))
-          echo "Mein aktuelles Alter: $AGE" > AGE.md
+          # README.md aktualisieren
+          sed -i "s/<!-- AGE -->/$AGE/" README.md
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add AGE.md
+          git add README.md
           git commit -m "Update age"
           git push
