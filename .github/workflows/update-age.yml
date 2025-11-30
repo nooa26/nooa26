@@ -2,7 +2,7 @@ name: Update README Age
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Läuft jeden Montag um Mitternacht
+    - cron: '0 0 * * 1'  
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
 
       - name: Berechne Alter und aktualisiere README
         run: |
-          BIRTH_YEAR=1998
+          BIRTH_YEAR=2010
           CURRENT_YEAR=$(date +'%Y')
           AGE=$((CURRENT_YEAR - BIRTH_YEAR))
           # Linux-sed: Platzhalter ersetzen
