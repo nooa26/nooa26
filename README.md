@@ -1,4 +1,4 @@
 # Hii!
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi, py, mint, linux, instagram, &perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
 
