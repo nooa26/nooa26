@@ -10,17 +10,17 @@ Check out some of my friends!
 
 <p align="center">
   <a href="https://github.com/user1">
-    <img src="img1.png" width="200"><br>
+    <img src="https://avatars.githubusercontent.com/u/205191628?v=4" width="50"><br>
     user1
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/user2">
-    <img src="img2.png" width="200"><br>
+    <img src="img2.png" width="50"><br>
     user2
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/user3">
-    <img src="img3.png" width="200"><br>
+    <img src="img3.png" width="50"><br>
     user3
   </a>
 </p>
