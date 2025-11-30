@@ -8,13 +8,23 @@ i'm Noa F., student from Germany. Down there you can see my skills and experienc
 
 Check out some of my friends!
 
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/66220444?v=4" width="50">
-  <img src="https://avatars.githubusercontent.com/u/179391414?v=4" width="50">
-  <img src="https://avatars.githubusercontent.com/u/199896953?v=4" width="50">
-  <img src="https://avatars.githubusercontent.com/u/205191628?v=4" width="50">
-  
+<p align="center">
+  <a href="https://github.com/user1">
+    <img src="img1.png" width="200"><br>
+    user1
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/user2">
+    <img src="img2.png" width="200"><br>
+    user2
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/user3">
+    <img src="img3.png" width="200"><br>
+    user3
+  </a>
 </p>
+
 
 
 
