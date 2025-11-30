@@ -8,9 +8,9 @@ i'm Noa F., student from Germany. Down there you can see my skills and experienc
 
 Check out some of my friends!
 
-| ![img1](img1.png) | ![img2](img2.png) | ![img3](img3.png) | ![img4](img4.png) | ![img5](img5.png) |
+| ![img1](https://avatars.githubusercontent.com/u/179391414?v=4) | ![img2](img2.png) | ![img3](img3.png) | ![img4](img4.png) | ![img5](img5.png) |
 |------------------|------------------|------------------|------------------|------------------|
-| [user1](https://github.com/user1) | [user2](https://github.com/user2) | [user3](https://github.com/user3) | [user4](https://github.com/user4) | [user5](https://github.com/user5) |
+| [user1](https://github.com/Gandalf2532) | [user2](https://github.com/user2) | [user3](https://github.com/user3) | [user4](https://github.com/user4) | [user5](https://github.com/user5) |
 
 
 
