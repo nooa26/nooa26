@@ -14,7 +14,6 @@ i'm Noa F., student from Germany. Down there you can see my skills and experienc
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nooa26/nooa26/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 
 
