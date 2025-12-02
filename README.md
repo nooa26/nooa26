@@ -8,6 +8,8 @@ i'm Noa F., student from Germany. Down there you can see my skills and experienc
 <p align="left">
   <a href="https://www.instagram.com/noaxfries/">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="noa.fries2612@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
  
