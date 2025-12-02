@@ -1,5 +1,5 @@
 # Hii!
-i'm Noa F., student from Germany. Down there you can see my skills and experiences. 
+i'm Noa F., student from Germany. I'm member of a robotiks-club and interested in hardware and software. Down there you can see my skills and experiences. 
 👇There! 
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,dotnet,linux,mint,py,cpp)]()
