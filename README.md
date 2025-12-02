@@ -2,10 +2,14 @@
 i'm Noa F., student from Germany. Down there you can see my skills and experiences. 
 👇There! 
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,dotnet,linux,mint,py,cpp&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,dotnet,linux,mint,py,cpp)]()
 
 ### Contact
-
+<p align="left">
+  <a href="https://www.instagram.com/noaxfries/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
  
  
  ### Check out some of my friends!
