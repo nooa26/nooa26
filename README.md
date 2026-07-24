@@ -4,15 +4,7 @@ i'm Noa F., student from Germany. I'm member of a robotiks-club and interested i
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,dotnet,linux,mint,py,cpp)]()
 
-### Contact
-<p align="left">
-  <a href="https://www.instagram.com/noaxfries/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  <a href="mailto:noa.fries2612@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-    
-  </a>
-</p>
+
  
  
  ### Check out some of my friends!
